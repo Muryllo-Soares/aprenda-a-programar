@@ -1,0 +1,5 @@
+let nome = "Muryllo Soares"
+let email = "Muryllo428@gmail.com"
+let profissao = "comprador"
+let idade = "26"
+let lugar = "japao"
